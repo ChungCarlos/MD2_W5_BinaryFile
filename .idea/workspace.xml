@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a942a623-7f62-45ef-aae6-a8a18272754a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD2_W5_BinaryFile.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_copy_file/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_copy_file/copysum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_copy_file/sum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_copy_file/copysum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_read_write_dssv/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_read_write_dssv/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_copy_file/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_copy_file/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_copy_file/copysum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_copy_file/sum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_copy_file/sum.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Md2/GVKieuAnh",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,7 +79,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681357526670</updated>
-      <workItem from="1681357528151" duration="3493000" />
+      <workItem from="1681357528151" duration="4771000" />
+      <workItem from="1681370506426" duration="7293000" />
     </task>
     <servers />
   </component>
